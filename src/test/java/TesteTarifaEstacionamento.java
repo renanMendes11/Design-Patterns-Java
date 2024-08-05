@@ -1,4 +1,6 @@
+import org.example.strategy.CalculoDiaria;
 import org.example.strategy.CalculoHora;
+import org.example.strategy.CalculoHoraValorInicial;
 import org.example.strategy.TarifaEstacionamento;
 import org.junit.Test;
 

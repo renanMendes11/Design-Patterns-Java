@@ -1,4 +1,4 @@
-import org.example.strategy.Calculo;
+package org.example.strategy;
 
 public class CalculoDiaria implements Calculo {
     private int valorDiaria;
