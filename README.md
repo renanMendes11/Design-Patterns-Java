@@ -1,5 +1,3 @@
-Project Title
-Simple overview of use/purpose.
+# Project Title
 
-Description
-An in-depth paragraph about your project and overview of use.
+Repositorio dedicado a estudo dos desing patterns, baseado nas aulas do curos Desemvolvimento Agil com Padrões de Projeto do ITA na plataforma coursera.
